@@ -1,0 +1,31 @@
+
+html {
+    scroll-behavior: smooth!important;
+}
+
+.image {
+    width:600px;
+}
+
+
+.h1 {
+    font-family: 'Princess Sofia', cursive;
+}
+
+@media (max-width: 1024px) {
+    .image {
+        width:400px;
+        height:310px;
+    }
+
+}
+
+
+
+@media (max-width: 1536px) {
+    .image {
+        width:400px;
+        height:310px;
+    }
+
+}
